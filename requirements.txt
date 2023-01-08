@@ -1,0 +1,24 @@
+lxml
+pandas
+matplotlib
+emoji
+seaborn
+spacy
+# python -m spacy download fr_core_news_md
+nltk
+# nltk.download('stopwords')
+WordCloud
+scikit-learn
+numpy
+# nltk.downloader.download('vader_lexicon')
+# nltk.download('opinion_lexicon')
+gensim
+# nltk.download('punkt')
+testfixtures
+transformers
+torch 
+torchvision 
+torchaudio
+sentencepiece
+tensorflow-macos
+tensorflow-metal
